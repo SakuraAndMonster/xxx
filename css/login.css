@@ -1,0 +1,10 @@
+.container{
+    width:600px;
+    height:300px;
+    /*border:1px solid red;*/
+    margin:150px auto;
+}
+h3 {
+    color: red;
+    font-size: 30px;
+}
