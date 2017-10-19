@@ -1,7 +1,4 @@
 /**
- * Created by sunxinyong on 2017/10/19.
- */
-/**
  * 编辑讲师模块
  * Author:Wilbert
  *   Date:2017/10/19
