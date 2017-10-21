@@ -1,7 +1,4 @@
 /**
- * Created by sunxinyong on 2017/10/21.
- */
-/**
  * 退出登录模块
  * Author:Wilbert
  *   Date:2017/10/21
